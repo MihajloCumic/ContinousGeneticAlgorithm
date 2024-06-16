@@ -1,0 +1,6 @@
+{
+  "chromosome_num": 10,
+  "mut_rate": 0.4,
+  "num_of_iterations": 150,
+  "print_file": ""
+}
